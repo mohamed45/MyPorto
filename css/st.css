@@ -1,0 +1,125 @@
+/* .education-column .education-box::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: var(--main-color);
+  border-radius: 50%;
+} */
+
+/* --------------------- Project 2 Section ----------------------- *
+
+/* .projects {
+  background: var(--second-bg-color);
+  padding: 7% 10%;
+}
+
+.projects h2 {
+  margin-bottom: 5rem;
+}
+
+.projects-container {
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  gap: 3rem;
+}
+
+.projects-container .projects-box {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  border-radius: 2rem;
+  box-shadow: 0 0 1rem var(--bg-color);
+  overflow: hidden;
+  display: flex;
+}
+
+.projects-box img {
+  width: 100%;
+  filter: brightness(60%);
+  transition: 0.3s ease;
+}
+
+.projects-box:hover img {
+  transform: scale(1.1);
+  filter: brightness(80%);
+}
+
+.projects-box .project-layer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.01), var(--main-color));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 0 3rem;
+  transform: translateY(120%);
+  transition: 0.4s ease;
+}
+
+.projects-box:hover .project-layer {
+  transform: translateY(0);
+}
+
+.project-layer h4 {
+  font-size: 2rem;
+}
+
+.project-layer p {
+  font-size: 1rem;
+  margin: 0.3rem 0 1rem;
+}
+
+.project-layer .pro-links {
+  width: 40%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+
+.project-layer .pro-links a {
+  display: inline-flex;
+
+  justify-content: center;
+  align-items: center;
+  width: 3rem;
+  height: 3rem;
+  background: var(--text-color);
+  border-radius: 50%;
+  transition: 0.4s ease;
+}
+
+.project-layer .pro-links a:hover {
+  background: var(--bg-color);
+}
+
+.project-layer .pro-links a i {
+  font-size: 2rem;
+  color: var(--bg-color);
+}
+
+.project-layer .pro-links a:hover i {
+  color: var(--text-color);
+} */
+
+/* .project .container {
+  margin: 0 auto;
+  max-width: 107rem;
+  padding: 0 4rem;
+} */
+
+/* .project .project-content {
+  display: flex;
+  flex-direction: column;
+} */
